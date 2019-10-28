@@ -86,7 +86,7 @@ also keep track of each instance of dog created, as well as a class method
 `all` to return an array of those instances.
 
 #### `controllers` directory
-
+a
 The controllers, such as `application_controller.rb`, are where the application configurations, routes, and controller actions are implemented. There is
 typically a class, which in this case we will call `ApplicationController`,
 that represents an instance of your application when the server is up and
